@@ -1,7 +1,9 @@
 body {
     text-align: center;
     color: white;
-    background-image: url("IMG_2703.jpg");
+    background-image: url(IMG_2703.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: black;
 }
 
@@ -14,7 +16,7 @@ body {
 
 .links {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     color: blue;
     max-width: 400px;
     margin: 0 auto;
